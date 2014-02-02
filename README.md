@@ -3,6 +3,8 @@ intertelecom-account-indicator-gnome-applet
 
 See intertelecom statistics, traffic consumed, traffic left, money left, your current ip, etc
 
+![ScreenShot](https://raw2.github.com/fastinetserver/intertelecom-account-indicator-gnome-applet/master/screenshots/intertelecom-gnome-applet.png)
+
 intertelecom-account-indicator-gnome-applet is `BSD licensed` ( http://www.linfo.org/bsdlicense.html ).
 
 Please let me know if you have any questions.
